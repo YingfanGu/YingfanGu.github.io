@@ -1,1 +1,1 @@
-This is the repository for my [homepage](https://yingfangu.github.io/).
+This is the repository for my [homepage](https://yingfanGu.github.io/).
