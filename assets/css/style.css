@@ -1,0 +1,309 @@
+/* Variables */
+:root {
+    --primary-color: #1a1a1a;
+    --secondary-color: #666;
+    --light-gray: #f5f5f5;
+    --border-color: #ddd;
+    --link-color: #0066cc;
+    --link-hover: #0052a3;
+}
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    color: var(--primary-color);
+    background-color: #fff;
+}
+
+/* Container */
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header */
+header {
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.header-content {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.header-text h1 {
+    font-size: 2.5em;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+.email {
+    font-size: 0.95em;
+    color: var(--secondary-color);
+    margin-bottom: 15px;
+    font-family: 'Courier New', monospace;
+}
+
+.social-links {
+    font-size: 0.95em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+}
+
+.social-links a {
+    color: var(--link-color);
+    text-decoration: none;
+    margin-right: 8px;
+}
+
+.social-links a:hover {
+    color: var(--link-hover);
+    text-decoration: underline;
+}
+
+.social-links a:not(:last-child)::after {
+    content: " / ";
+    margin-left: 8px;
+    color: var(--primary-color);
+}
+
+/* Main Content */
+main {
+    margin-bottom: 60px;
+}
+
+/* Sections */
+section {
+    margin-bottom: 50px;
+}
+
+section h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    font-weight: 600;
+    border-bottom: 2px solid var(--light-gray);
+    padding-bottom: 10px;
+}
+
+/* Bio Section */
+.bio p {
+    margin-bottom: 12px;
+    line-height: 1.7;
+    color: var(--primary-color);
+}
+
+.bio strong {
+    font-weight: 600;
+}
+
+/* Job/Experience */
+.job {
+    margin-bottom: 30px;
+}
+
+.job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 5px;
+}
+
+.job h3 {
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+.job .date {
+    color: var(--secondary-color);
+    font-size: 0.9em;
+    white-space: nowrap;
+}
+
+.job .organization {
+    color: var(--secondary-color);
+    font-size: 0.95em;
+    margin-bottom: 10px;
+}
+
+.job ul {
+    margin-left: 20px;
+    margin-top: 8px;
+}
+
+.job li {
+    margin-bottom: 6px;
+    line-height: 1.5;
+}
+
+/* Education */
+.degree {
+    margin-bottom: 25px;
+}
+
+.degree-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 5px;
+}
+
+.degree h3 {
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+.degree .date {
+    color: var(--secondary-color);
+    font-size: 0.9em;
+    white-space: nowrap;
+}
+
+.degree .school {
+    color: var(--secondary-color);
+    font-size: 0.95em;
+}
+
+/* Publications */
+.publication {
+    margin-bottom: 25px;
+}
+
+.pub-title {
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.pub-title a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+.pub-title a:hover {
+    text-decoration: underline;
+}
+
+.pub-authors {
+    font-size: 0.95em;
+    color: var(--secondary-color);
+    margin-bottom: 4px;
+}
+
+.pub-venue {
+    font-size: 0.95em;
+    color: #888;
+    font-style: italic;
+}
+
+/* Projects */
+.project {
+    margin-bottom: 20px;
+}
+
+.project-title {
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.project-title a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+.project-title a:hover {
+    text-decoration: underline;
+}
+
+.project-description {
+    font-size: 0.95em;
+    color: var(--secondary-color);
+    line-height: 1.5;
+}
+
+/* Interests */
+.interests p {
+    line-height: 1.7;
+    color: var(--primary-color);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding-top: 30px;
+    border-top: 1px solid var(--border-color);
+    color: var(--secondary-color);
+    font-size: 0.9em;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .container {
+        padding: 15px;
+    }
+
+    .header-text h1 {
+        font-size: 2em;
+    }
+
+    .job-header,
+    .degree-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .date {
+        margin-top: 3px;
+    }
+
+    section h2 {
+        font-size: 1.3em;
+    }
+}
+
+/* Links */
+a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--link-hover);
+}
+
+/* Print Styles */
+@media print {
+    body {
+        background: white;
+    }
+
+    header {
+        border-bottom: none;
+    }
+
+    a {
+        text-decoration: underline;
+    }
+
+    .social-links a::after {
+        content: "";
+    }
+
+    .social-links a:not(:last-child)::after {
+        content: " / ";
+    }
+}
