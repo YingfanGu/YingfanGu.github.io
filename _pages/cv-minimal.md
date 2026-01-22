@@ -1,11 +1,10 @@
 ---
 layout: single
 title: "Yingfan Gu"
-permalink: /
+permalink: /cv-minimal/
 author_profile: false
 redirect_from:
   - /resume-minimal
-  - /cv-minimal/
 ---
 
 {% include base_path %}
