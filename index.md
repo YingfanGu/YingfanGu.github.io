@@ -2,45 +2,53 @@
 layout: minimal
 ---
 
-# Yingfan Gu
+<div class="header">
+  <h1>Yingfan Gu</h1>
+  <div class="email">your.email@example.com</div>
+</div>
 
-`your.email@example.com`
+<div class="bio-section">
+  <div class="bio-text">
+    <p>I am a [your current role/position]. [2-3 sentence professional summary describing your background, expertise, and what you're passionate about].</p>
 
----
+    <p>Previously, I [brief description of previous positions/education]. [Additional context about your background].</p>
 
-I am a [your current role/position]. [2-3 sentence professional summary describing your background, expertise, and what you're passionate about].
+    <p>I created <a href="/">Project Name</a> (Brief description) and <a href="/">Another Project</a> (Brief description). I enjoy open-source and systems that make research easier and faster.</p>
+  </div>
+  <div class="profile-image">
+    <img src="/images/profile.jpg" alt="Profile">
+  </div>
+</div>
 
-Previously, I [brief description of previous positions/education]. [Additional context about your background].
-
-[CV PDF](/) · [GitHub](/) · [Google Scholar](/) · [LinkedIn](/) · [Twitter](/) · [Instagram](/)
-
----
+<div class="social-links">
+  <a href="/">CV</a> / 
+  <a href="/">GitHub</a> / 
+  <a href="/">Google Scholar</a> / 
+  <a href="/">X</a> / 
+  <a href="/">LinkedIn</a> / 
+  <a href="/">Instagram</a> / 
+  <a href="/">Zhihu</a>
+</div>
 
 ## Experience
 
-**Current Position (Date - Present)**
-* Organization Name
-* Description of role and major contributions
-* Key achievements or projects
+Since [Date], I have been a [position] at [Company/Organization], [description]. My contribution includes:
 
-**Previous Position (Date - Date)**
-* Organization Name
-* Major accomplishments and impact
-* Notable projects
+* [Major project 1](/) – description
+* [Major project 2](/) – description
+* [Major project 3](/) – description
+* [Major project 4](/) – description
+* [Major project 5](/) – description
 
-**Earlier Experience (Date - Date)**
-* Organization Name
-* Key contributions and learnings
+For the [period], I was a [position] at [Organization](link), where I worked with [colleagues] on [project description].
 
----
+For the [period], I was a [position] at [Organization](link), where I worked on [project description].
 
 ## Education
 
 * **Ph.D.** in [Field], [University], [Year]
 * **M.S.** in [Field], [University], [Year]
 * **B.S.** in [Field], [University], [Year]
-
----
 
 ## Publications
 
@@ -52,18 +60,6 @@ Previously, I [brief description of previous positions/education]. [Additional c
 [Authors] ([Year])
 [Journal/Conference Name]
 
----
-
-## Projects & Open Source
-
-**[Project Name](link)** — Brief description
-* [GitHub](/) · [Documentation](/)
-
-**[Another Project](link)** — Brief description
-* [GitHub](/)
-
----
-
 ## Miscellaneous
 
-Photography · Computer Graphics · Web Development
+Photography / Computer Graphics / Web Development

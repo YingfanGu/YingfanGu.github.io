@@ -5,30 +5,85 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
       line-height: 1.6;
       color: #333;
       background-color: #fff;
-      margin: 0;
-      padding: 0;
     }
     .container {
       max-width: 900px;
       margin: 0 auto;
       padding: 40px 20px;
     }
-    h1, h2, h3 {
-      margin-top: 30px;
+    .header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .header h1 {
+      font-size: 2.2em;
+      margin-bottom: 5px;
+      font-weight: 600;
+    }
+    .email {
+      font-family: monospace;
+      font-size: 0.95em;
+      color: #666;
+      margin-bottom: 20px;
+    }
+    .bio-section {
+      display: flex;
+      gap: 30px;
+      margin-bottom: 30px;
+      align-items: flex-start;
+    }
+    .bio-text {
+      flex: 1;
+      line-height: 1.7;
+    }
+    .bio-text p {
       margin-bottom: 15px;
     }
-    h1 {
-      font-size: 2em;
-      margin-top: 0;
+    .profile-image {
+      flex-shrink: 0;
+      width: 220px;
+      height: 220px;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .profile-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .social-links {
+      text-align: center;
+      margin: 25px 0;
+      font-size: 0.95em;
+    }
+    .social-links a {
+      color: #0066cc;
+      text-decoration: none;
+      margin: 0 8px;
+    }
+    .social-links a:hover {
+      text-decoration: underline;
+    }
+    .social-links a:first-child {
+      margin-left: 0;
     }
     h2 {
-      font-size: 1.5em;
-      border-bottom: 2px solid #eee;
+      font-size: 1.4em;
+      margin-top: 40px;
+      margin-bottom: 20px;
+      font-weight: 600;
+      border-bottom: 1px solid #eee;
       padding-bottom: 10px;
     }
     a {
@@ -38,21 +93,29 @@
     a:hover {
       text-decoration: underline;
     }
-    code {
-      background-color: #f5f5f5;
-      padding: 2px 6px;
-      border-radius: 3px;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-    ul, ol {
-      margin: 10px 0;
-      padding-left: 20px;
+    ul {
+      margin: 15px 0 15px 25px;
+      line-height: 1.8;
     }
     li {
-      margin: 5px 0;
+      margin: 8px 0;
+    }
+    p {
+      margin-bottom: 15px;
+      line-height: 1.7;
+    }
+    @media (max-width: 768px) {
+      .bio-section {
+        flex-direction: column;
+      }
+      .profile-image {
+        width: 150px;
+        height: 150px;
+        margin: 0 auto;
+      }
+      .header h1 {
+        font-size: 1.8em;
+      }
     }
   </style>
 </head>
