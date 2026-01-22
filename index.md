@@ -1,9 +1,6 @@
 ---
-layout: single
-author_profile: false
+layout: minimal
 ---
-
-<div style="max-width: 900px; margin: 0 auto; padding: 20px 0;">
 
 # Yingfan Gu
 
@@ -15,9 +12,7 @@ I am a [your current role/position]. [2-3 sentence professional summary describi
 
 Previously, I [brief description of previous positions/education]. [Additional context about your background].
 
-[Link to CV PDF](/) · [GitHub](/) · [Google Scholar](/) · [LinkedIn](/) · [Twitter](/) · [Instagram](/)
-
-![Profile Image](../images/profile.jpg){: width="150px" style="border-radius: 50%; margin: 20px 0;"}
+[CV PDF](/) · [GitHub](/) · [Google Scholar](/) · [LinkedIn](/) · [Twitter](/) · [Instagram](/)
 
 ---
 
@@ -72,5 +67,3 @@ Previously, I [brief description of previous positions/education]. [Additional c
 ## Miscellaneous
 
 Photography · Computer Graphics · Web Development
-
-</div>
