@@ -4,7 +4,7 @@ layout: minimal
 
 <div class="header">
   <h1>Yingfan Gu</h1>
-  <div class="email">your.email@example.com</div>
+  <div class="email">guyingfan@outlook.com</div>
 </div>
 
 <div class="bio-section">
