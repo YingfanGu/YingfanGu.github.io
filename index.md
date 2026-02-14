@@ -15,7 +15,12 @@ layout: minimal
     I build end-to-end machine learning pipelines—from model training to deployment and monitoring—that solve high-impact safety and infrastructure problems, with a focus on real-time prediction, anomaly detection, and reinforcement learning systems.
     </p>
 
-    <p>I created <a href="/">Project Name</a> (Brief description) and <a href="/">Another Project</a> (Brief description). I enjoy open-source and systems that make research easier and faster.</p>
+    <p>
+      I built <a href="/">Cyber-TFWS</a> (a real-time cyberattack forecasting & warning system for connected vehicles) and
+      <a href="/">RL Signal Control</a> (a deep RL traffic signal agent that improves safety and congestion using simulation).
+      I enjoy open-source, applied research, and systems that make experiments reproducible, scalable, and fast.
+    </p>
+    
   </div>
   <div class="profile-image">
     <img src="/images/profile.jpg" alt="Profile">
