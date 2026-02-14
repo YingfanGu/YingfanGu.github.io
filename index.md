@@ -20,10 +20,10 @@ layout: minimal
       <a href="/">RL Signal Control</a> (a deep RL traffic signal agent that improves safety and congestion using simulation).
       I enjoy open-source, applied research, and systems that make experiments reproducible, scalable, and fast.
     </p>
-    
+
   </div>
   <div class="profile-image">
-    <img src="/images/profile.jpg" alt="Profile">
+    <img src="/images/YingfanGu.jpg" alt="Profile">
   </div>
 </div>
 
