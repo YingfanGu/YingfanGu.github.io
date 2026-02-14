@@ -9,9 +9,11 @@ layout: minimal
 
 <div class="bio-section">
   <div class="bio-text">
-    <p>I’m a PhD candidate specializing in AI/ML. I like building new things.</p>
+    <p>I’m a PhD candidate specializing in AI/ML and I like building new things.</p>
 
-    <p>Previously, I [brief description of previous positions/education]. [Additional context about your background].</p>
+    <p>
+    I build end-to-end machine learning pipelines—from model training to deployment and monitoring—that solve high-impact safety and infrastructure problems, with a focus on real-time prediction, anomaly detection, and reinforcement learning systems.
+    </p>
 
     <p>I created <a href="/">Project Name</a> (Brief description) and <a href="/">Another Project</a> (Brief description). I enjoy open-source and systems that make research easier and faster.</p>
   </div>
