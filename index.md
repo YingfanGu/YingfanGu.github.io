@@ -31,10 +31,7 @@ layout: minimal
   <a href="/">CV</a> / 
   <a href="/">GitHub</a> / 
   <a href="/">Google Scholar</a> / 
-  <a href="/">X</a> / 
   <a href="/">LinkedIn</a> / 
-  <a href="/">Instagram</a> / 
-  <a href="/">Zhihu</a>
 </div>
 
 ## Experience
@@ -55,6 +52,7 @@ For the [period], I was a [position] at [Organization](link), where I worked on 
 
 * **Ph.D.** in [Field], [University], [Year]
 * **M.S.** in [Field], [University], [Year]
+* **M.S.** in [Field], [University], [Year]
 * **B.S.** in [Field], [University], [Year]
 
 ## Publications
@@ -66,6 +64,21 @@ For the [period], I was a [position] at [Organization](link), where I worked on 
 **[Another Paper Title](link)**
 [Authors] ([Year])
 [Journal/Conference Name]
+
+
+
+## Publications
+
+**[A Cyberattack Warning System for Enhancing Connected Vehicle Safety under Spoofing Cyberattacks](https://doi.org/10.1109/TITS.2025.3567763)**  
+Gu, Y., Li, Z., Wei, H., Zhang, G., Xu, Y. (2025)  
+*IEEE Transactions on Intelligent Transportation Systems* (IF: 8.4)  
+→ Proposed a real-time GAN-based human-in-the-loop prediction system that improves early cyberattack detection and enhances intersection safety.
+
+**[Why to Buy or Why Not to Buy? Automated Vehicle Purchase Behavior Analysis](https://doi.org/10.1016/j.retrec.2024.101516)**  
+Gu, Y., Wang, S., Li, Z., Zhang, G., Ai, C., Li, P. (2025)  
+*Research in Transportation Economics* (IF: 4.6)  
+→ Built structural equation models to uncover psychological and behavioral drivers behind automated vehicle adoption.
+
 
 ## Miscellaneous
 
