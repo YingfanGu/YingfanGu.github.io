@@ -67,7 +67,7 @@ For the [period], I was a [position] at [Organization](link), where I worked on 
 
 
 
-## Publications
+## Major Publications
 
 **[A Cyberattack Warning System for Enhancing Connected Vehicle Safety under Spoofing Cyberattacks](https://doi.org/10.1109/TITS.2025.3567763)**  
 Gu, Y., Li, Z., Wei, H., Zhang, G., Xu, Y. (2025)  
@@ -78,6 +78,21 @@ Gu, Y., Li, Z., Wei, H., Zhang, G., Xu, Y. (2025)
 Gu, Y., Wang, S., Li, Z., Zhang, G., Ai, C., Li, P. (2025)  
 *Research in Transportation Economics* (IF: 4.6)  
 → Built structural equation models to uncover psychological and behavioral drivers behind automated vehicle adoption.
+
+**[Public Preferences and Concerns Regarding Automated Vehicle-Based Transportation Services: A Mechanism Analysis from a Kentucky Survey](https://doi.org/10.1080/19427867.2024.2366244)**  
+Wang, S., Li, Z., Wang, Y., Zhao, W., Gu, Y., & Wei, H. (2025)  
+*Transportation Letters*, 17(3), 502–511
+
+## Oral Presentations
+
+**Cybersecure Transit: Innovation at the Intersection of AI, IoT, and Smart Mobility**  
+Gu, Y. (2024)  
+Presented an AI-driven system for detecting cyberattacks at interconnected signalized intersections.  
+USDOT Tier 1 UTC Transportation Cybersecurity Center for Advanced Research and Education (CYBER-CARE)  
+The Morrison-Clark Historic Inn & Restaurant, Washington, DC  
+January 10, 2024  
+
+Event Website: https://www.uh.edu/cybercare/newsevents/jan-10-event/index.php
 
 
 ## Miscellaneous
