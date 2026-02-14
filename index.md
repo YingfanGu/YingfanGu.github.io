@@ -9,7 +9,7 @@ layout: minimal
 
 <div class="bio-section">
   <div class="bio-text">
-    <p>I am a [your current role/position]. [2-3 sentence professional summary describing your background, expertise, and what you're passionate about].</p>
+    <p>I’m a PhD candidate specializing in AI/ML. I like building new things.</p>
 
     <p>Previously, I [brief description of previous positions/education]. [Additional context about your background].</p>
 
