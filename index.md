@@ -28,7 +28,6 @@ layout: minimal
 </div>
 
 <div class="social-links">
-  <a href="/">CV</a> / 
   <a href="/">GitHub</a> / 
   <a href="/">Google Scholar</a> / 
   <a href="/">LinkedIn</a> / 
@@ -96,9 +95,6 @@ Event Website: (https://www.uh.edu/cybercare/newsevents/jan-10-event/index.php)
 
 ## Conference
 
-
-## Conference/Presentations
-
 **Safety Warning System for Connected Vehicles under Spoofing Cyberattacks at a Connected Signalized Intersection**  
 Gu, Y., Li, Z., Wei, H., Zhang, G., Xu, Y.  
 The 104th Annual Meeting of the Transportation Research Board (TRB), Washington, D.C., 2025  
@@ -132,8 +128,6 @@ Gu, Y.
 CYBER-CARE Annual Symposium 2024: *Safeguarding Transportation Cybersecurity in the Digital Age*  
 Houston, Texas, 2024  
 Program: https://www.uh.edu/cybercare/_files/cyberprogram.pdf
-
-
 
 ## Miscellaneous
 
