@@ -92,7 +92,47 @@ USDOT Tier 1 UTC Transportation Cybersecurity Center for Advanced Research and E
 The Morrison-Clark Historic Inn & Restaurant, Washington, DC  
 January 10, 2024  
 
-Event Website: https://www.uh.edu/cybercare/newsevents/jan-10-event/index.php
+Event Website: (https://www.uh.edu/cybercare/newsevents/jan-10-event/index.php)
+
+## Conference
+
+
+## Conference/Presentations
+
+**Safety Warning System for Connected Vehicles under Spoofing Cyberattacks at a Connected Signalized Intersection**  
+Gu, Y., Li, Z., Wei, H., Zhang, G., Xu, Y.  
+The 104th Annual Meeting of the Transportation Research Board (TRB), Washington, D.C., 2025  
+
+**Modeling Dynamic Vehicle-Driver Complex Behaviors at Signalized Intersections Under Cyberattacks**  
+Xu, Y., Li, Z., Wei, H., Zhang, G., Gu, Y.  
+The 104th Annual Meeting of the Transportation Research Board (TRB), Washington, D.C., 2025  
+
+**Smart Leading Pedestrian Intervals (SLPIs): A Deep Reinforcement Learning Control Strategy for Determining Optimal LPIs**  
+Gu, Y., Li, Z.  
+The 103rd Annual Meeting of the Transportation Research Board (TRB), Washington, D.C., 2024  
+
+**Machine Learning-Driven Dynamic Trajectory Planning to Support Human-like Automated Driving for Stop-Controlled Local Roads**  
+Nian, D., Li, Z., Gu, Y., Kluger, R., Wei, H., Lin, W.  
+The 103rd Annual Meeting of the Transportation Research Board (TRB), Washington, D.C., 2024  
+
+**Advanced Radar Sensing-Based Investigation of Stop Sign Spacing’s Impact on Vehicle Speeds through Speed Trajectory Analysis**  
+Nian, D., Li, Z., Gu, Y., Kluger, R., Wei, H., Lin, W.  
+The 103rd Annual Meeting of the Transportation Research Board (TRB), Washington, D.C., 2024  
+
+**Machine Learning-Based Detection of Cyberattacks at Connected Signalized Intersections Using Hidden Markov Models**  
+Gu, Y., Li, Z., Zhang, Y., Tiwari, S., Wang, S.  
+The 102nd Annual Meeting of the Transportation Research Board (TRB), Washington, D.C., 2023  
+
+**Revealing the Hidden Factors that Influence People’s Willingness to Purchase Automated Vehicles: A Mediation Analysis Based on Structural Equation Modeling**  
+Gu, Y., Li, Z.  
+The 102nd Annual Meeting of the Transportation Research Board (TRB), Washington, D.C., 2023  
+
+**Enhancing Connected Vehicle Safety via a Trajectory-Forecasting-Based Cyberattack Warning System**  
+Gu, Y.  
+CYBER-CARE Annual Symposium 2024: *Safeguarding Transportation Cybersecurity in the Digital Age*  
+Houston, Texas, 2024  
+Program: https://www.uh.edu/cybercare/_files/cyberprogram.pdf
+
 
 
 ## Miscellaneous
