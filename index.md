@@ -10,6 +10,18 @@ layout: minimal
 <div class="bio-section">
   <div class="bio-text">
     <p>I’m a PhD candidate specializing in AI/ML and I like building new things.</p>
+
+    <p>
+    I build end-to-end machine learning pipelines—from model training to deployment and monitoring—that solve high-impact safety and infrastructure problems, with a focus on real-time prediction, anomaly detection, and reinforcement learning systems.
+    </p>
+
+    <p>
+      I built <a href="/">Cyber-TFWS</a> (a real-time cyberattack forecasting & warning system for connected vehicles) and
+      <a href="/">RL Signal Control</a> (a deep RL traffic signal agent that improves safety and congestion using simulation).
+      I enjoy open-source, applied research, and systems that make experiments reproducible, scalable, and fast.
+    </p>
+
+
   </div>
   <div class="profile-image">
     <img src="/images/YingfanGu.jpg" alt="Profile">
@@ -17,7 +29,7 @@ layout: minimal
 </div>
 
 <div class="social-links">
-  <a href="/">GitHub</a> / 
+  <a href="/">GitHub</a> /  
   <a href="/">Google Scholar</a> / 
   <a href="/">LinkedIn</a> / 
 </div>
