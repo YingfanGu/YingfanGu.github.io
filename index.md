@@ -39,9 +39,9 @@ For the [period], I was a [position] at [Organization](link), where I worked on 
 
 ## Education
 
-* **Ph.D.** in [Transportation], [University of Cincinnati]
-* **M.S.** in [Computer Science], [Georgia Institute of Technology]
-* **B.S./M.S.** in [Engineer], [Nanjing Uniersity]
+* **Ph.D.** in Transportation, University of Cincinnati
+* **M.S.** in Computer Science, Georgia Institute of Technology
+* **B.S./M.S.** in Engineer, Nanjing Uniersity
 
 ## Publications
 
