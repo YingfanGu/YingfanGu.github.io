@@ -51,9 +51,9 @@ For the [period], I was a [position] at [Organization](link), where I worked on 
 
 ## Education
 
-* **Ph.D.** in Transportation, University of Cincinnati
+* **Ph.D.** in Transportation Engineering, University of Cincinnati
 * **M.S.** in Computer Science, Georgia Institute of Technology
-* **B.S./M.S.** in Engineer, Nanjing Uniersity
+* **B.S./M.S.** in General Engineering, Nanjing Uniersity
 
 ## Publications
 
@@ -92,7 +92,7 @@ USDOT Tier 1 UTC Transportation Cybersecurity Center for Advanced Research and E
 The Morrison-Clark Historic Inn & Restaurant, Washington, DC  
 January 10, 2024  
 
-Event Website: (https://www.uh.edu/cybercare/newsevents/jan-10-event/index.php)
+Event Website: [CYBER-CARE event page](https://www.uh.edu/cybercare/newsevents/jan-10-event/index.php)
 
 ## Conference
 
