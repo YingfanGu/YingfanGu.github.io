@@ -30,7 +30,7 @@ layout: minimal
 
 <div class="social-links">
   <a href="/">LinkedIn</a> / 
-  <a href="/">Google Scholar(https://scholar.google.com/citations?hl=en&user=WIzGw3gAAAAJ&view_op=list_works&sortby=pubdate)</a> /   
+  <a href="https://scholar.google.com/citations?hl=en&user=WIzGw3gAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> /   
   <a href="/">GitHub</a> /  
 </div>
 
