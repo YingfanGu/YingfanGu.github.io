@@ -29,9 +29,9 @@ layout: minimal
 </div>
 
 <div class="social-links">
-  <a href="/">LinkedIn</a> / 
+  <a href="https://www.linkedin.com/in/599151707/">LinkedIn</a> / 
   <a href="https://scholar.google.com/citations?hl=en&user=WIzGw3gAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> /   
-  <a href="/">GitHub</a> /  
+  <a href="https://github.com/YingfanGu">GitHub</a> /  
 </div>
 
 ## Experience
