@@ -45,6 +45,32 @@ Since [Date], I have been a [position] at [Company/Organization], [description].
 * [Major project 4](/) – description
 * [Major project 5](/) – description
 
+
+* **Trajectory-Based Cyberattack Detection for Connected Vehicles** – Built a machine learning system using Hidden Markov Models (HMM) to detect spoofing cyberattacks at connected signalized intersections based on vehicle trajectory patterns. Achieved **98% detection accuracy** and demonstrated superior performance compared with CNN and Bi-LSTM models. The system analyzes velocity, acceleration, and distance-to-stop-line data to identify abnormal driving behaviors caused by falsified signal messages.  
+
+* **Human-in-the-Loop Cyberattack Simulation Platform** – Designed a cyberattack simulation environment using a driving simulator with **32 participants** to collect real human driving trajectories under normal and attack scenarios. Developed a dataset of **96 trajectory samples** capturing driver reactions to falsified red-light countdown messages, enabling research on human behavior and anomaly detection in connected vehicle environments.  
+
+* **HMM-4-C Cyberattack Detection Algorithm** – Developed a probabilistic anomaly detection model based on **Hidden Markov Models and Expectation–Maximization (EM) training** to identify cyberattack states in vehicle trajectory time series. The model uses transition and emission probabilities to classify three states: **Pass, Stop, and Cyberattack**, providing robust detection with limited training data.  
+
+* **Trajectory-Based Real-Time Cyberattack Warning System** – Proposed a **roadside sensor detection architecture** capable of capturing vehicle trajectories and performing real-time cyberattack detection without relying on vulnerable communication channels. The system computes attack probability and triggers warning messages to nearby vehicles and traffic authorities when anomalies are detected.  
+
+* **Early Cyberattack Detection Using Effective Detection Period (EDP) and Distance (EDD)** – Introduced two novel metrics, **Effective Detection Period (EDP)** and **Effective Detection Distance (EDD)**, to determine how quickly a cyberattack can be detected using vehicle trajectory data. The analysis shows cyberattacks can be detected within **3–6 seconds** after the anomaly occurs and within **50 ft of the intersection**, enabling faster safety interventions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 For the [period], I was a [position] at [Organization](link), where I worked with [colleagues] on [project description].
 
 For the [period], I was a [position] at [Organization](link), where I worked on [project description].
